@@ -18,6 +18,6 @@ bases:
 images:
 - name: messaging
   #newName: quay.io/manuela/iot-consumer
-  newName: image-registry.openshift-image-registry.svc:5000/manuela-quickstart-messaging/manuela-dev-git@sha256:30efa0b85a8f50e195238b9976340e2ce839331544f6f5692a86e743e8abb0e5
+  newName: image-registry.openshift-image-registry.svc:5000/manuela-quickstart-messaging/manuela-dev-git
   newTag: quickstart
 
