@@ -19,5 +19,5 @@ images:
 - name: messaging
   #newName: quay.io/manuela/iot-consumer
   newName: image-registry.openshift-image-registry.svc:5000/manuela-quickstart-messaging/manuela-dev-git
-  newTag: quickstart
+  newTag: latest
 
